@@ -9,7 +9,6 @@ import java.time.OffsetDateTime;
 
 @AllArgsConstructor
 @Getter
-
 public class BillResponseDTO {
 
     private Long billId;
